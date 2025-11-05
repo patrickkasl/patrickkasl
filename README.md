@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🤖 Founder of SynAI - Practical AI solutions for SMBs<br>💼 Senior Lead Software Engineer @ Cross Internet<br>🚀 Specialized in AI workflows, agents & automation<br>💡 Mission: Making AI accessible and scalable for small and medium-sized businesses<br><br>📊 Concrete results:<br>- Saved 250 hours/year with AI-powered product automation<br>- Freed up 760 hours/year with AI inbox management<br>- 50% faster time-to-market through process optimization<br><br>🎯 Focus: LangChain, n8n workflows, FastAPI, Laravel development
 
 
